@@ -1,0 +1,17 @@
+{
+  "name": "analytics_sdk",
+  "version": "1.0.0",
+  "description": "React SDK for integrating web3 analytics if injection into smart contract is not feasible.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NanoNish",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.42"
+  }
+}
