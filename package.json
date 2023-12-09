@@ -9,6 +9,7 @@
   "author": "NanoNish",
   "license": "ISC",
   "dependencies": {
+    "@metamask/providers": "^14.0.2",
     "ethers": "^6.9.0",
     "react": "^18.2.0",
     "web3": "^4.3.0",
