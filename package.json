@@ -9,7 +9,12 @@
   "author": "NanoNish",
   "license": "ISC",
   "dependencies": {
-    "react": "^18.2.0"
+    "@waku/react": "^0.0.5-63a782d",
+    "@waku/sdk": "^0.0.20",
+    "axios": "^1.6.2",
+    "protobufjs": "^7.2.5",
+    "react": "^18.2.0",
+    "react-router-dom": "^6.20.1"
   },
   "devDependencies": {
     "@types/react": "^18.2.42"
